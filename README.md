@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darisse</h1>
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
 
-- 🌱 I’m currently learning **React JS and frameworks vueJS**
-
-- 👯 I’m looking to collaborate on **clone fiverr**
+- 🌱 I’m currently learning **MERN Stack(Mongo Db , Express JS , React JS , Node JS  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/RavoniainaDarisse](https://github.com/RavoniainaDarisse)
 

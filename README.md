@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darisse</h1>
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/RavoniainaDarisse/RavoniainaDarisse/assets/149136585/0b49e49f-415d-4a4c-a233-5acafcb1a108
+<img align="right" alt="coding" width="400" src="![image](https://github.com/RavoniainaDarisse/RavoniainaDarisse/assets/149136585/2626f431-696c-45a3-8b34-23bec22eddea)
 " />
 
 - 🌱 I’m currently learning **MERN Stack(Mongo Db , Express JS , React JS , Node JS  **

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darisse</h1>
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 - 🌱 I’m currently learning **MERN Stack(Mongo Db , Express JS , React JS , Node JS  **
 

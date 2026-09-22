@@ -1,22 +1,235 @@
 <h1 align="center">Hi 👋, I'm Darisse</h1>
-<h3 align="center">A passionate frontend developer from Madagascar</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/RavoniainaDarisse/RavoniainaDarisse/assets/149136585/2626f431-696c-45a3-8b34-23bec22eddea
-" />
 
-- 🌱 I’m currently learning **MERN Stack(Mongo Db , Express JS , React JS , Node JS  **
-
-- 👨‍💻 All of my projects are available at [https://github.com/RavoniainaDarisse](https://github.com/RavoniainaDarisse)
-
-- 📫 How to reach me **ravoniainaheritiana@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/diav heritiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diav heritiana" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer • Full-Stack Developer • AI & Automation Enthusiast</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/RavoniainaDarisse">
+    <img src="https://img.shields.io/badge/GitHub-RavoniainaDarisse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ravoniainaheritiana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/diav.heritiana">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravoniainadarisse&show_icons=true&locale=en&layout=compact" alt="ravoniainadarisse" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravoniainadarisse&" alt="ravoniainadarisse" /></p>
+## About Me
+
+I'm a **Software Engineer from Madagascar** focused on building practical, scalable and maintainable digital products.
+
+My interests go beyond frontend development. I work across the software development lifecycle, from **frontend interfaces and backend APIs to databases, Git workflows, CI/CD, cloud technologies and AI-powered automation**.
+
+I'm particularly interested in building software that combines:
+
+* ⚙️ Software Engineering
+* 🌐 Full-Stack Web Development
+* ☁️ Cloud & DevOps
+* 🤖 AI & Automation
+* 📱 Mobile Development
+* 🔧 Developer Tools
+
+I believe in learning by building real projects and continuously improving engineering practices.
+
+---
+
+## 🚀 Featured Project
+
+### [DevFlow](https://github.com/RavoniainaDarisse/devflow)
+
+**Professional Software Engineering Workflow Platform**
+
+DevFlow is a software engineering project focused on designing and practicing professional development workflows for collaborative software teams.
+
+**What it demonstrates:**
+
+* Git & GitHub professional workflows
+* Feature branching strategy
+* Pull Requests & Code Review
+* GitHub Issues
+* CI/CD with GitHub Actions
+* Release & semantic versioning
+* Engineering documentation
+* Team-oriented development workflow
+
+**Engineering workflow:**
+
+`Issue → Feature Branch → Development → Commit → Push → Pull Request → Code Review → CI → Merge → Release`
+
+**Stack & Tools**
+
+`Git` `GitHub` `GitHub Actions` `CI/CD` `Markdown` `Software Engineering`
+
+🔗 **Repository:** [github.com/RavoniainaDarisse/devflow](https://github.com/RavoniainaDarisse/devflow)
+
+---
+
+### 🤖 AI Worker
+
+Exploring AI-powered automation and intelligent software agents capable of performing multi-step tasks with human supervision.
+
+**Focus:**
+
+* AI automation
+* API integration
+* Workflow orchestration
+* Agents
+* Decision logic
+* Human-in-the-loop systems
+
+---
+
+### 📱 Academic Management Platform
+
+A mobile academic and administrative management application designed for educational institutions.
+
+**Technologies:**
+Flutter • Dart • Symfony • MySQL • REST API • Mercure • JWT
+
+**Features include:**
+
+* Academic tracking
+* Attendance management
+* QR-based features
+* Authentication
+* Administrative workflows
+* Role-based access
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,cs,dart" alt="Programming Languages"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue" alt="Frontend Technologies"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,symfony,django,fastapi,dotnet" alt="Backend Technologies"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="Databases"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode" alt="DevOps and Tools"/>
+</p>
+
+---
+
+## 🧠 Engineering Focus
+
+```text
+Software Engineering
+        │
+        ├── Clean Code
+        ├── SOLID Principles
+        ├── Git & GitHub
+        ├── Code Review
+        ├── Testing
+        │
+        ├── Backend & APIs
+        │
+        ├── Databases
+        │
+        ├── Docker
+        ├── CI/CD
+        ├── Cloud & DevOps
+        │
+        └── AI Automation
+```
+
+---
+
+## 📚 Currently Learning
+
+I'm currently deepening my skills in:
+
+* TypeScript
+* Software Engineering principles
+* Backend architecture
+* Docker
+* CI/CD
+* Cloud & DevOps
+* AI Automation
+* AI-powered software engineering
+
+My goal is to become a stronger engineer capable of designing, developing, deploying and maintaining complete software systems.
+
+---
+
+## 🏆 Achievement
+
+🥇 **1st Place — HIU Hackathon 2025**
+
+**Team:** CODE MANJA — INSI
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavoniainaDarisse&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavoniainaDarisse&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavoniainaDarisse&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:ravoniainaheritiana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ravoniainaheritiana%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/RavoniainaDarisse">
+  <img src="https://img.shields.io/badge/GitHub-RavoniainaDarisse-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.facebook.com/diav.heritiana">
+  <img src="https://img.shields.io/badge/Facebook-Diav%20Heritiana-222222?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Build • Learn • Automate • Ship</strong>
+</p>
+
+<p align="center">
+  <sub>Software Engineer from Madagascar 🇲🇬</sub>
+</p>
